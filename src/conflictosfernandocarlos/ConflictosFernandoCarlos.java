@@ -15,7 +15,8 @@ public class ConflictosFernandoCarlos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Primer mensaje Fernando");
+
+        System.out.println("Mensaje conflicto Carlos");
     }
     
 }
