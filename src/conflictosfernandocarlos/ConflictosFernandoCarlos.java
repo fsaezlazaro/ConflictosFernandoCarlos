@@ -17,6 +17,7 @@ public class ConflictosFernandoCarlos {
     public static void main(String[] args) {
 
         System.out.println("Mensaje conflicto Carlos");
+        System.out.println("Segundo mensaje Fernando");
     }
     
 }
