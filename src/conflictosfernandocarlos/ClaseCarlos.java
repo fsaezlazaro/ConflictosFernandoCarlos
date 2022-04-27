@@ -11,6 +11,6 @@ package conflictosfernandocarlos;
  */
 public class ClaseCarlos {
     public static void main(String[] args) {
-    System.out.println("Primer mensaje Carlos");    
+    System.out.println("Primera clase Carlos");    
 }
 }
